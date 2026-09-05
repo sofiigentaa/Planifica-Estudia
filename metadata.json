@@ -1,0 +1,6 @@
+{
+  "name": "Planifica & Estudia - Asistente Universitario",
+  "description": "Suite académica universitaria completa: sincronización con Google Calendar, generador de resúmenes y quizzes, simulador de parciales con escala 1 a 10, fichas de emergencia de 1 página, tutor Feynman, calculadora de notas y modo enfoque Pomodoro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
